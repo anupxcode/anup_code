@@ -1,0 +1,12 @@
+
+# Problem 1: Sum of Two Numbers
+# def sum_of_two_number(d,c):
+#     return d+c
+# print(sum_of_two_number(8,9))
+
+# problem 2 :Python program to add two numbers
+num = 25
+pan = 30
+
+sum = num + pan
+print(f"sum of number {num} and {pan} is {sum}")
