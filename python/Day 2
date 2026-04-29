@@ -1,0 +1,157 @@
+# # today we are going to learn about Data types in python.
+# # # subscription
+# # print("hello anup"[0])
+# # print("hello anup"[-2])
+
+# # # string
+# # print("111" + "231")
+
+# # # intger number
+# # print(111 + 233)
+
+# # # Larger number
+# # print(236_564_987)
+
+# # # float number
+# # print(123.569)
+
+# # # boolean
+# # print(True)
+ print(False)
+
+
+
+# # print("Hello, Welcome to the viper company")
+# # grettings = input("Enter your name please:")
+# # information = input("Enter your Id number :")
+# # city = input("Enter your city name:")
+# # print("Thanks for your kind information" + grettings + information + city)
+# # len function which is basically is to find length of string.
+
+
+# # print(len("nupur"))
+# # print(len("screw"))
+# # print(len("prome"))
+# # print(len("Anup"))
+
+
+# # # Type function is used to find the data type of the variable or value.
+# # print(type("Elements"))
+# # print(type(123))
+# # print(type(123.45))
+# # print(type(True))
+
+# # # Int function is used to convert a string or float into an Integer.
+# # print(int("123") + int("123"))
+# # print(int(126.5) + int(456.8))
+# # print(int("123") + int("456.2"))
+
+# # print(int("abc") + int("123"))
+
+# # print(type(256))
+# # print(type(True))
+# # print(type("Hello world"))
+# # print(type("LOve you"))
+
+# # name = "Rokon bhai"
+# # Make this line of code run without errors
+# # Name = input("Enter your name: ")
+# # lenght_of_name = len(Name)
+# # print("The lenght of number is:" + str(lenght_of_name))
+
+# # 5. Mathematical operations start from here.
+
+# print("My age is" + str(32))
+# print(5+3)
+# print(5-3)
+# print(5*3)
+# print(5**3)
+# print(5/3)
+# print(5//3)
+# print("All types of mathematical operations are done here!")
+
+# PEMDAS rule is used to solve the mathematical operations in python.
+# P - Parentheses ()
+# E - Exponents **
+# M - Multiplication *
+# D - Division /
+# A - Addition +
+# S - Subtraction -
+
+# print(3*3+3/3-3)
+
+# print(3*(3+3)/3-3)
+
+# print("Welcome to the world of learning python, \n"
+# "It's easy and fun practice as much your time this is your friend's you should get all of your time to the learning it's a game +" \
+# "\nthe ")
+
+# color = input("Enter your ")
+# ..............................
+# number manupulation start from here.
+# we start f string from here.
+# age = 84 /1.65 **2
+# print(age)
+# print(int(age))
+# print(round(age, 1))
+
+
+# print("Hey this is anup sikder we ll learn python and complete our first project within  jun 10")
+# Timing = input("Enter the time here :")
+# Condition = input("Enter the condition here :")
+# Man_words = input("Enter your thoughts here :")
+# print(f"Hey this is anup sikder we ll learn python and complete our first project within \n jun 10, {Timing}, {Condition}, {Man_words} remember to practice in time and keep your promise.")
+
+# Date 09.03.26
+number = (4.1416)
+print(round(number,3))
+print(round(number,2))
+print(round(number,1))
+
+# number manipulation start from here
+Counting = 5
+raw = 6
+print(raw)
+
+# using f string to print to the output.
+
+Total = 25
+price_money = 1000
+Match_condition = "Depending an the situation"
+print(f"In this match the {Total}\n palyers are playing and the price money is {price_money}  and condition is {Match_condition}.")
+
+number1 = 5.265
+print(round(number1,))
+print(round(number1,2))
+print(round(number1,3))
+print(round(number1,4))
+
+
+# Project 2: Calculator in python
+print("Welcome to the tip calculator!")
+
+print(f"Each person should pay: ${final_amount}")
+
+price= round(150*1.12/5, 2)
+print(price)
+
+print(150*1.12)
+print(150*1.12/5,2)
+
+# first qst for the project is 
+# if the bill was $150.00, split between 5 people, with 12% tip.
+print("Welcome to the tip calculator!")
+bill = float(input("What was the total bill?"))
+tips = int(input("How much tip would you like to give? 10, 12, or 15?"))
+Person = int(input("How many people would like to split the bill?"))
+total_sum = round(bill * (1 + tips / 100), 2)
+print(f"Total bill with tip is: ${total_sum}")
+
+
+print("HI! welcome to the tip calculator!")
+bill = float(input("Total bill :"))
+tips = int(input("How much tip would you like to give? 10, 12, or 15?"))
+people = int(input("How many people would like to split the bill?"))
+in_total = round(bill * (1 + tips / 100), 2)
+print(f"Each person should pay: ${in_total}")
+
