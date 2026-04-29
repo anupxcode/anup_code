@@ -1,0 +1,108 @@
+
+# Print any value  to the console
+print("Hello, World!")
+print ("This is a viper test")
+# Print any value  to the console
+
+# print my thought in python 
+print("This is anup sikder")
+print("I am a student of ai and python.")
+# print my thought in python 
+
+# Asking variable 
+Name = "Viper Company"
+print(Name)
+
+
+Number = 25
+print(Number)
+
+
+time = "1:50 AM"
+date = "26th june 2030"
+day = "Thursday"
+Hore = "5th"
+ 
+print(day)
+print(date)
+print(time)
+print(Hore)
+Asking variable  
+
+Talking with computure
+Name = input("Enter your name:")
+print(Name)
+
+name = input("Enter your name: Anup sikder")
+print("hello world...... ", name)
+
+age = input("How old are you: 20")
+print("IM 20 years old", age)
+
+Country = input("Enter your country: Bangladesh ")
+print("Is my favourite country ", Country)
+
+stu_info = input("Provide your student information : student")
+print("Kenriya college from economics deparment", stu_info)
+
+Adress = input("Your adress: Francesco")
+print("My living place in lifetime", Adress)
+# Talking with comput 
+
+practice
+
+cast = input("Enter the cast of the user:")
+print(cast)
+
+price = input("what is the name of your product's")
+print(price)
+
+print("Hello, world!\nhello world!")
+print("Hello" +" " + "Anup")
+
+print("Hello" + input("What is your name?"))
+
+.......... ...... ......
+This line of code will take an input using the input() function, 
+which prompts the user with the message "What is your name?". 
+The user's input will then be concatenated with the string "Hello" and printed to the console. 
+For example, if the user enters "Anup", the output will be "Hello Anup".
+
+print("Hello " + input("Enter your name?") + "!" )
+
+# check the len of the user input
+
+name = "Anup"
+print(len(name))
+
+# split everything in the variable
+username = "anupsikder"
+legth = "number of the code"
+print(len(username)) 
+
+
+
+Final project..
+Brand name generator project
+grettings = print("welcome to the Brand game generator")
+brand_name = input("what is name of your company name?\n")
+pet = input("What is your favorite pet's name?\n")
+qst = input("Enter your city name \n")
+print("Your brand name could be : " + brand_name + "  " + pet)
+
+ this is how we have done our day 1 class 
+ \n, functions call input(), variables, easy and comfortable 
+ we have done our first day plan so let's enjoy 
+
+
+print("Hello, Welcome to Dhaka")
+varification = input("Enter your name: ")
+place = "Dhaka"
+print(len(place))
+
+
+print("Good evening, Welcome to the viper company")
+name = input("Enter your name please:")
+place = input("Enter your city name:")
+
+
